@@ -11,7 +11,7 @@ Draft
 
 ## What is it?
 
-A behavioural interview involves a moderator asking questions and a notetaker recording responses from participants. They are largely used to examine the participant's motivations, thoughts, and their point of view. When conducting interviews, you will also be able to read body language and ask for further clarification when needed.
+A behavioural interview involves a moderator asking questions and a notetaker recording responses from participants. They are largely used to examine the participants' motivations, thoughts, and point of view. When conducting interviews, you will also be able to read body language and ask for further clarification when needed.
 
 ## Purpose of Behavioural Interviews
 
